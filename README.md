@@ -2,12 +2,12 @@
 ==> Program python sederhana untuk mencatat, melihat, dan mengunduh laporan penjualan Produk Kewirausahaan (PKWU) dalam format *Excel* menggunakan library pandas
 ## ⚙️ Cara Menjalankan/Mengakses
 1. Pastikan bahasa pyhon sudah terinstal di perangkat anda
-2.  **Pasang Library `pandas` untuk membuat dan mengunduh laporan ke format Excel (`.xlsx`). Jika Anda belum memasang library ini, Anda bisa memasangnya menggunakan *package manager* pip dengan menjalankan perintah di Terminal atau Command Prompt:
+2. Pasang Library pandas untuk membuat dan mengunduh laporan ke format Excel (`.xlsx`). Jika Anda belum memasang library ini, Anda bisa memasangnya menggunakan *package manager* pip dengan menjalankan perintah di Terminal atau Command Prompt:
 
    pip install pandas openpyxl
 
 3.  Jalankan Script:
-      * Simpan file `newlaporan.py` di lokasi yang mudah diakses di komputer Anda.
+      * Simpan file newlaporan.py di lokasi yang mudah diakses di komputer Anda.
       * Buka Terminal atau Command Prompt/PowerShell (di Windows).
       * Arahkan ke direktori tempat Anda menyimpan file tersebut menggunakan perintah cd.
         Contoh:
