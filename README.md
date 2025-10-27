@@ -17,3 +17,6 @@
         `python newlaporan.py`
 
 Setelah langkah-langkah di atas, program akan berjalan dan menampilkan menu interaktif di konsol/terminal. Anda kemudian dapat mengikuti petunjuk di layar (misalnya, memasukkan pilihan 1 untuk melanjutkan ke Menu Utama, dan pilihan 99 untuk keluar).
+
+## 💻 Teknologi
+VS Code
