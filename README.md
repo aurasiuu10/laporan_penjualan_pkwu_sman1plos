@@ -1,4 +1,4 @@
-# Program Laporan Penujualan Produk PKWU/Double Track
+# Program Laporan Penjualan Produk PKWU/Double Track
 ==> Program python sederhana untuk mencatat, melihat, dan mengunduh laporan penjualan Produk Kewirausahaan (PKWU) dalam format *Excel* menggunakan library pandas
 ## ⚙️ Cara Menjalankan/Mengakses
 1. Pastikan bahasa pyhon sudah terinstal di perangkat anda
